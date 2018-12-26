@@ -1,3 +1,6 @@
+## 0.0.4 (December 26, 2018)
+
+
 ## 0.0.3 (December 26, 2018)
   - Correção de erros da Release 0.0.2 - BUG #01
   - Corrigindo probleas da Release 0.0.2 - BUG #01
