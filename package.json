@@ -7,7 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "API"
+    "API",
+    "APP",
+    "NODE"
   ],
   "author": "Marcio Angelo Matté <marcioamatte@gmail.com>",
   "license": "MIT"
