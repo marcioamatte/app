@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "description": "Projeto da API do App",
+  "main": "src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Marcio Angelo Matté <marcioamatte@gmail.com>",
+  "license": "MIT"
+}
