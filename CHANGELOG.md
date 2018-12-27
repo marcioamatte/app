@@ -1,3 +1,7 @@
+## 1.0.0 (December 27, 2018)
+  - Merge branch 'hotfix-0.0.5'
+  - Merge branch 'hotfix-0.0.5'
+
 ## 0.0.5 (December 26, 2018)
   - hotfix 0.0.5
 
